@@ -1,7 +1,7 @@
 {
-	"name": "@printf83/ts-temp",
+	"name": "@printf83/twts",
 	"version": "0.0.1",
-	"description": "typescript template",
+	"description": "typescript tailwind",
 	"main": "index.ts",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
@@ -13,18 +13,18 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/printf83/ts-temp.git"
+		"url": "git+https://github.com/printf83/twts.git"
 	},
 	"keywords": [
 		"typescript",
-		"template"
+		"tailwind"
 	],
 	"author": "Hamzah A",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/printf83/ts-temp/issues"
+		"url": "https://github.com/printf83/twts/issues"
 	},
-	"homepage": "https://github.com/printf83/ts-temp#readme",
+	"homepage": "https://github.com/printf83/twts#readme",
 	"devDependencies": {
 		"ts-loader": "^9.4.4",
 		"typescript": "^5.1.6",
