@@ -1,8 +1,8 @@
 {
-	"name": "@printf83/twts",
+	"name": "@printf83/ts-temp",
 	"version": "0.0.1",
-	"description": "typescript tailwind",
-	"main": "index.ts",
+	"description": "typescript webpack template",
+	"main": "src/index.ts",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"clean": "node scripts/clean.cjs",
@@ -13,18 +13,19 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/printf83/twts.git"
+		"url": "git+https://github.com/printf83/ts-temp.git"
 	},
 	"keywords": [
 		"typescript",
-		"tailwind"
+		"webpack",
+		"template"
 	],
 	"author": "Hamzah A",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/printf83/twts/issues"
+		"url": "https://github.com/printf83/ts-temp/issues"
 	},
-	"homepage": "https://github.com/printf83/twts#readme",
+	"homepage": "https://github.com/printf83/ts-temp#readme",
 	"devDependencies": {
 		"ts-loader": "^9.4.4",
 		"typescript": "^5.1.6",
